@@ -25,3 +25,6 @@ show the best performance.
 ### The workflow of the project: 
 
 ![Slide2](https://github.com/foyie/Drug-Target-Identification-Using-Biological-Information-and-Node2vec/assets/89987028/ec4adc03-ef43-4e0a-a63e-f8115013c047)
+
+The proposed model performs better than state_of_the_art models as shown
+![ml_rf](https://github.com/foyie/Drug-Target-Identification-Using-Biological-Information-and-Node2vec/assets/89987028/e10ad43f-0cc7-47aa-b07e-cc27582f9ab8)
