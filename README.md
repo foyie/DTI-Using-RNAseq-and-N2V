@@ -28,3 +28,7 @@ show the best performance.
 
 The proposed model performs better than state_of_the_art models as shown
 ![ml_rf](https://github.com/foyie/Drug-Target-Identification-Using-Biological-Information-and-Node2vec/assets/89987028/e10ad43f-0cc7-47aa-b07e-cc27582f9ab8)
+
+* This repository consists of the main code file and the data that was used.
+* This paper got approved in 4rd International Conference on Frontiers in Computing and Systems (COMSYS-2023) held at IIT Mandi
+* The paper is currenty under publication in Springer book series "Lecture Notes in Networks and Systems"
